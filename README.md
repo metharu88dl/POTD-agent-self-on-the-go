@@ -122,7 +122,7 @@ All Accounts Updated
 ## 📂 Repository Structure
 
 ```
-POTD-agent-self-on-the-go/
+POTD-agent-self-on-the-go/ 
 │
 ├── workflows/
 │   └── potd-agent.json
