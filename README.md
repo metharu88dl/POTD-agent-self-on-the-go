@@ -127,7 +127,7 @@ POTD-agent-self-on-the-go/
 ├── workflows/
 │   └── potd-agent.json
 │
-├── scripts/
+├── scripts/ 
 │   ├── login-handler.js
 │   ├── submit-solution.js
 │   └── session-checker.js
